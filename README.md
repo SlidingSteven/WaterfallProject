@@ -1,0 +1,1 @@
+The master branch is for the Django app and the Java Branch is for... java.  If you have questions let me know.  Not sure how the java will work because I think you need a workspace set up and thats where I copied this file from.
